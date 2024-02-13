@@ -34,4 +34,4 @@ function YesClick() {
     "beforeend",
     "<p style='font-size: 50px;  border: 5px'>YAYYYYYYYYYYYY!!!!!!!!!!</p>"
   );
-}
+};
